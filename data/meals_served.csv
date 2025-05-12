@@ -1,0 +1,91 @@
+meal_id,date,meal_type,menu_item,expected_count,actual_served
+1,2025-05-10,Breakfast,Paneer Curry,142,142
+2,2025-05-10,Lunch,Salad,98,78
+3,2025-05-10,Dinner,Idli Sambhar,91,86
+4,2025-05-09,Breakfast,Salad,93,92
+5,2025-05-09,Lunch,Rice & Dal,82,82
+6,2025-05-09,Dinner,Salad,84,64
+7,2025-05-08,Breakfast,Paratha,97,81
+8,2025-05-08,Lunch,Salad,80,75
+9,2025-05-08,Dinner,Chicken Biryani,121,112
+10,2025-05-07,Breakfast,Paneer Curry,101,100
+11,2025-05-07,Lunch,Rice & Dal,144,136
+12,2025-05-07,Dinner,Rice & Dal,118,108
+13,2025-05-06,Breakfast,Salad,108,96
+14,2025-05-06,Lunch,Paratha,90,74
+15,2025-05-06,Dinner,Chicken Biryani,135,122
+16,2025-05-05,Breakfast,Chicken Biryani,136,118
+17,2025-05-05,Lunch,Rice & Dal,85,84
+18,2025-05-05,Dinner,Salad,128,109
+19,2025-05-04,Breakfast,Chicken Biryani,84,72
+20,2025-05-04,Lunch,Paratha,102,93
+21,2025-05-04,Dinner,Rice & Dal,83,67
+22,2025-05-03,Breakfast,Chicken Biryani,121,109
+23,2025-05-03,Lunch,Salad,116,115
+24,2025-05-03,Dinner,Pasta,150,138
+25,2025-05-02,Breakfast,Rice & Dal,97,88
+26,2025-05-02,Lunch,Paneer Curry,146,143
+27,2025-05-02,Dinner,Chicken Biryani,144,126
+28,2025-05-01,Breakfast,Rice & Dal,144,137
+29,2025-05-01,Lunch,Paneer Curry,110,99
+30,2025-05-01,Dinner,Paratha,97,93
+31,2025-04-30,Breakfast,Idli Sambhar,142,123
+32,2025-04-30,Lunch,Pasta,88,85
+33,2025-04-30,Dinner,Salad,88,72
+34,2025-04-29,Breakfast,Idli Sambhar,81,81
+35,2025-04-29,Lunch,Paratha,130,127
+36,2025-04-29,Dinner,Salad,101,81
+37,2025-04-28,Breakfast,Salad,122,106
+38,2025-04-28,Lunch,Pasta,90,77
+39,2025-04-28,Dinner,Pasta,119,113
+40,2025-04-27,Breakfast,Paratha,138,124
+41,2025-04-27,Lunch,Rice & Dal,114,102
+42,2025-04-27,Dinner,Chicken Biryani,149,143
+43,2025-04-26,Breakfast,Paratha,142,128
+44,2025-04-26,Lunch,Paneer Curry,90,86
+45,2025-04-26,Dinner,Paratha,128,128
+46,2025-04-25,Breakfast,Rice & Dal,117,108
+47,2025-04-25,Lunch,Paneer Curry,99,83
+48,2025-04-25,Dinner,Salad,100,97
+49,2025-04-24,Breakfast,Chicken Biryani,93,75
+50,2025-04-24,Lunch,Paneer Curry,83,70
+51,2025-04-24,Dinner,Paneer Curry,115,104
+52,2025-04-23,Breakfast,Idli Sambhar,133,116
+53,2025-04-23,Lunch,Chicken Biryani,83,66
+54,2025-04-23,Dinner,Salad,108,96
+55,2025-04-22,Breakfast,Paratha,124,106
+56,2025-04-22,Lunch,Paneer Curry,136,126
+57,2025-04-22,Dinner,Salad,138,127
+58,2025-04-21,Breakfast,Chicken Biryani,129,113
+59,2025-04-21,Lunch,Chicken Biryani,118,112
+60,2025-04-21,Dinner,Chicken Biryani,122,117
+61,2025-04-20,Breakfast,Pasta,125,116
+62,2025-04-20,Lunch,Idli Sambhar,87,83
+63,2025-04-20,Dinner,Paratha,110,91
+64,2025-04-19,Breakfast,Chicken Biryani,97,86
+65,2025-04-19,Lunch,Idli Sambhar,121,101
+66,2025-04-19,Dinner,Idli Sambhar,133,123
+67,2025-04-18,Breakfast,Chicken Biryani,148,134
+68,2025-04-18,Lunch,Paneer Curry,104,101
+69,2025-04-18,Dinner,Idli Sambhar,134,114
+70,2025-04-17,Breakfast,Chicken Biryani,120,104
+71,2025-04-17,Lunch,Paratha,135,135
+72,2025-04-17,Dinner,Rice & Dal,143,128
+73,2025-04-16,Breakfast,Paneer Curry,143,132
+74,2025-04-16,Lunch,Paneer Curry,132,112
+75,2025-04-16,Dinner,Pasta,123,121
+76,2025-04-15,Breakfast,Pasta,116,97
+77,2025-04-15,Lunch,Paratha,81,73
+78,2025-04-15,Dinner,Paratha,137,119
+79,2025-04-14,Breakfast,Pasta,82,78
+80,2025-04-14,Lunch,Chicken Biryani,135,131
+81,2025-04-14,Dinner,Pasta,142,128
+82,2025-04-13,Breakfast,Pasta,105,90
+83,2025-04-13,Lunch,Salad,105,92
+84,2025-04-13,Dinner,Idli Sambhar,105,105
+85,2025-04-12,Breakfast,Chicken Biryani,132,120
+86,2025-04-12,Lunch,Rice & Dal,111,99
+87,2025-04-12,Dinner,Idli Sambhar,133,115
+88,2025-04-11,Breakfast,Idli Sambhar,93,89
+89,2025-04-11,Lunch,Salad,98,82
+90,2025-04-11,Dinner,Chicken Biryani,106,96

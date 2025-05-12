@@ -1,0 +1,91 @@
+meal_id,wastage_kg,weather,event
+1,1.81,Cloudy,Guest Visit
+2,1.44,Rainy,Festival
+3,9.42,Sunny,Sports Day
+4,7.43,Sunny,Festival
+5,2.04,Rainy,None
+6,1.22,Cloudy,Festival
+7,9.9,Sunny,Guest Visit
+8,6.77,Sunny,Festival
+9,2.55,Cloudy,None
+10,5.92,Rainy,None
+11,7.3,Cloudy,Guest Visit
+12,9.94,Rainy,Sports Day
+13,8.53,Cloudy,Sports Day
+14,5.91,Rainy,Guest Visit
+15,9.02,Sunny,Sports Day
+16,5.99,Rainy,Guest Visit
+17,5.88,Cloudy,Sports Day
+18,5.86,Sunny,Sports Day
+19,7.77,Cloudy,Sports Day
+20,8.96,Rainy,None
+21,5.29,Sunny,Guest Visit
+22,8.91,Rainy,Guest Visit
+23,6.02,Rainy,Festival
+24,4.5,Cloudy,None
+25,3.9,Rainy,Sports Day
+26,1.6,Rainy,None
+27,5.94,Rainy,Guest Visit
+28,9.15,Cloudy,Guest Visit
+29,9.33,Rainy,Festival
+30,2.78,Sunny,Guest Visit
+31,3.69,Sunny,None
+32,5.92,Sunny,Guest Visit
+33,8.83,Sunny,Guest Visit
+34,9.36,Cloudy,Festival
+35,1.82,Sunny,Festival
+36,1.37,Cloudy,None
+37,4.94,Cloudy,Sports Day
+38,9.84,Cloudy,Festival
+39,3.28,Rainy,Guest Visit
+40,7.16,Sunny,None
+41,9.2,Sunny,Sports Day
+42,9.51,Sunny,Sports Day
+43,4.19,Cloudy,Sports Day
+44,7.8,Rainy,Festival
+45,6.05,Rainy,None
+46,6.74,Cloudy,Guest Visit
+47,5.22,Cloudy,Guest Visit
+48,2.85,Sunny,None
+49,2.97,Rainy,Guest Visit
+50,7.34,Rainy,Guest Visit
+51,9.4,Sunny,Guest Visit
+52,5.43,Sunny,Sports Day
+53,5.97,Sunny,None
+54,9.16,Sunny,Sports Day
+55,6.15,Rainy,Guest Visit
+56,5.21,Cloudy,Sports Day
+57,9.85,Sunny,Sports Day
+58,2.52,Rainy,None
+59,5.11,Rainy,Guest Visit
+60,4.3,Cloudy,Guest Visit
+61,6.43,Rainy,Guest Visit
+62,6.07,Sunny,Festival
+63,2.77,Cloudy,Sports Day
+64,1.35,Rainy,Festival
+65,3.91,Cloudy,None
+66,2.95,Sunny,Guest Visit
+67,8.62,Sunny,Festival
+68,1.6,Rainy,None
+69,8.65,Cloudy,Guest Visit
+70,3.08,Cloudy,Guest Visit
+71,1.29,Sunny,None
+72,3.14,Rainy,Guest Visit
+73,7.78,Cloudy,Sports Day
+74,6.3,Sunny,Sports Day
+75,8.49,Cloudy,None
+76,6.52,Rainy,Sports Day
+77,9.74,Sunny,Guest Visit
+78,4.77,Rainy,Festival
+79,3.46,Rainy,Festival
+80,7.22,Sunny,Sports Day
+81,3.62,Cloudy,Sports Day
+82,4.34,Rainy,Sports Day
+83,4.08,Cloudy,Guest Visit
+84,7.11,Rainy,Guest Visit
+85,8.2,Sunny,Sports Day
+86,3.48,Sunny,Festival
+87,8.73,Rainy,Festival
+88,1.41,Rainy,Festival
+89,7.56,Rainy,Sports Day
+90,2.97,Cloudy,Sports Day
